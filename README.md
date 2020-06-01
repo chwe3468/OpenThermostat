@@ -1,5 +1,5 @@
 # OpenThermostat
-This is the project repository for OpenThermostat. The project is open-source. </br>
+This is the project repository for OpenThermostat. The project is open-source.
 
 # Description
 OpenThermostat has 2 main sub-projects:<br />
